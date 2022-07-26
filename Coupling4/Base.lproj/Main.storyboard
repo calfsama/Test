@@ -63,7 +63,7 @@
         <!--Coupling-->
         <scene sceneID="8X5-7f-zZb">
             <objects>
-                <viewController id="kM4-Xf-YPP" customClass="LoginViewController" customModule="Coupling4" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="kM4-Xf-YPP" customClass="HomeViewController" customModule="Coupling4" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="mew-sw-w4f">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
